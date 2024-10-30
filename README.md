@@ -8,7 +8,35 @@ This project was inspired by [Github's homepage](https://github.com/home), where
 
 ## Implementation
 
+GitHub Globe
+Overview
+The GitHub Globe project visualizes real-time GitHub activity on a 3D globe using Three.js. Inspired by GitHub’s homepage, this project aims to provide an engaging way to see global GitHub activity.
 
+Features
+Real-time Data Visualization: Displays recent pull requests and merges from around the world.
+Interactive 3D Globe: Rotate and zoom to explore different regions.
+Customizable: Easily add your own data and customize the globe’s appearance.
+Installation
+To get started with the GitHub Globe project, follow these steps:
+
+
+
+Usage
+Development: The development build is available in the ./dist directory.
+Production: The static production build is also in the ./dist directory.
+Customization
+To customize the globe, you can modify the src files. For detailed documentation, please visit the three-globe documentation.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Contributing
+Contributions are welcome! Please open an issue or submit a pull request.
+
+Acknowledgements
+Three.js: A JavaScript 3D library.
+three-globe: A Three.js data-visualization project by @vasturiano.
+Feel free to modify any sections 
 
 ## [Live demo](https://omyadav141.github.io/github-globe/)
 
